@@ -4,6 +4,7 @@ DB_PORT=3306
 DB_USER="root"
 DB_PASSWORD="Ricard51!"
 DB_NAME="gruetbase"
+
 /**
  * Module dependencies.
  */
